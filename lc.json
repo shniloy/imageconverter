@@ -1,4 +1,15 @@
 {
-  "License": "XX00XXadminoftemnurnilXX00XX",
-  "Expiry_date": "January 15, 2026"
+  "latest_version": "2.1.0",
+  "update_url": "https://botnil.com/downloads",
+  "force_update": true,
+  "users": {
+    "HWID_123456789": {
+      "expiry": "2026-12-31",
+      "note": "John Doe"
+    },
+    "HWID_987654321": {
+      "expiry": "2025-01-01",
+      "note": "Expired User"
+    }
+  }
 }
