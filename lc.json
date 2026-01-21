@@ -1,7 +1,7 @@
 {
   "latest_version": "2.1.0",
   "update_url": "https://botnil.com/downloads",
-  "force_update": true,
+  "force_update": flase,
   "users": {
     "HWID_123456789": {
       "expiry": "2026-12-31",
