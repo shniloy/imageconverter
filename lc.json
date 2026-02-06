@@ -1,23 +1,6 @@
 {
   "latest_version": "2.1.0",
   "update_url": "https://botnil.xo.je/",
-  "force_update": true,
-  "users": {
-    " ": {
-      "expiry": "2026-12-31",
-      "note": "John Doe"
-    },
-    "HWID_987654321": {
-      "expiry": "2025-01-01",
-      "note": "Expired User"
-    },
-    "HYB4JM3-/HYB4JM3/CNCMC001AE0084/": {
-      "expiry": "2026-03-01",
-      "note": "Tasin 01"
-    },
-    "TobefilledbyO.E.M-HNZ-202504282025": {
-      "expiry": "2026-03-01",
-      "note": "Tasin 01"
-    }
-  }
+  "force_update": false,
+  "users": {}
 }
