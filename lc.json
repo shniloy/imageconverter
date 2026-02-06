@@ -1,6 +1,11 @@
 {
   "latest_version": "2.1.0",
   "update_url": "https://botnil.xo.je/",
-  "force_update": false,
-  "users": {}
+  "force_update": true,
+  "users": {
+    "ID-03000200-0400-0500-0006-000700080009": {
+      "expiry": "2027-01-01",
+      "note": "Admin"
+    }
+  }
 }
