@@ -1,7 +1,7 @@
 {
     "latest_version": "1.0.0",
     "update_url": "https://your-download-link-here.com",
-    "force_update": true,
+    "force_update": false,
     "users": {
         "ID-03000200-0400-0500-0006-000700080009": {
             "expiry": "2030-12-31",
