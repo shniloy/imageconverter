@@ -1,1 +1,15 @@
-
+{
+    "latest_version": "1.0.0",
+    "update_url": "https://your-download-link-here.com",
+    "force_update": true,
+    "users": {
+        "ID-03000200-0400-0500-0006-000700080009": {
+            "expiry": "2030-12-31",
+            "note": "Admin Access"
+        },
+        "EXAMPLE-HWID-1234": {
+            "expiry": "2025-12-31",
+            "note": "Standard License"
+        }
+    }
+}
